@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix AssetFlow",
+  "description": "Full-stack fintech investment dashboard, plan management, real-time balance ledger, deposits, withdrawals, referrals, team milestones, promo codes, and comprehensive admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

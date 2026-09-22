@@ -1,0 +1,42 @@
+{
+  "entities": {
+    "settings": {
+      "title": "Platform Settings",
+      "description": "Global master configuration and platform settings",
+      "type": "object",
+      "properties": {
+        "siteName": { "type": "string" },
+        "tagline": { "type": "string" },
+        "currencySymbol": { "type": "string" },
+        "usdToPkrRate": { "type": "number" },
+        "minDeposit": { "type": "number" },
+        "maxDeposit": { "type": "number" },
+        "minWithdrawal": { "type": "number" },
+        "maxWithdrawal": { "type": "number" },
+        "withdrawalFeePercent": { "type": "number" },
+        "referralCommissionPercent": { "type": "number" },
+        "withdrawalBoxes": { "type": "array" },
+        "showAnnouncement": { "type": "boolean" },
+        "announcementText": { "type": "string" },
+        "withdrawalTimingEnabled": { "type": "boolean" },
+        "withdrawalStartTime": { "type": "string" },
+        "withdrawalEndTime": { "type": "string" },
+        "withdrawalAllowedDays": { "type": "array" },
+        "withdrawalTimezoneOffset": { "type": "number" },
+        "withdrawalClosedMessage": { "type": "string" },
+        "supportEmail": { "type": "string" },
+        "supportPhone": { "type": "string" },
+        "supportWhatsApp": { "type": "string" },
+        "supportTelegram": { "type": "string" },
+        "maintenanceMode": { "type": "boolean" },
+        "updatedAt": { "type": "string" }
+      }
+    }
+  },
+  "firestore": {
+    "/settings/{settingId}": {
+      "schema": "settings",
+      "description": "Global configuration documents readable by all users and writable by system/admin"
+    }
+  }
+}

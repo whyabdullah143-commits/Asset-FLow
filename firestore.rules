@@ -1,0 +1,14 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Global platform configuration is readable by everyone for instant client sync
+    match /settings/{settingId} {
+      allow read: if true;
+      allow write: if true; // Allows admin client updates; server also persists to disk
+    }
+
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}

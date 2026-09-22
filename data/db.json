@@ -1,0 +1,1213 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_001",
+      "name": "Master Admin",
+      "username": "admin",
+      "email": "admin@assetflow.com",
+      "phone": "+92 300 0000000",
+      "role": "admin",
+      "status": "active",
+      "referralCode": "ADMIN777",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "passwordHash": "$2b$10$iK2QPL9UBFBuYWERO1DnXOWyWlxHI7/ArT6CPlVYgi.Nwf4KxAyZO",
+      "lastLogin": "2026-09-22T05:44:36.796Z"
+    }
+  ],
+  "balances": {
+    "usr_admin_001": {
+      "userId": "usr_admin_001",
+      "totalBalance": 10,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 10,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 10
+    },
+    "usr_1790056266004_xrpr": {
+      "userId": "usr_1790056266004_xrpr",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266125_6h4m": {
+      "userId": "usr_1790056266125_6h4m",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266226_op7a": {
+      "userId": "usr_1790056266226_op7a",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266324_16bh": {
+      "userId": "usr_1790056266324_16bh",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266426_k3pc": {
+      "userId": "usr_1790056266426_k3pc",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266524_kdzf": {
+      "userId": "usr_1790056266524_kdzf",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266625_l4fh": {
+      "userId": "usr_1790056266625_l4fh",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266725_evdh": {
+      "userId": "usr_1790056266725_evdh",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266829_uet6": {
+      "userId": "usr_1790056266829_uet6",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056266931_ghol": {
+      "userId": "usr_1790056266931_ghol",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056267029_0is8": {
+      "userId": "usr_1790056267029_0is8",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056282534_r15i": {
+      "userId": "usr_1790056282534_r15i",
+      "totalBalance": 25,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 25,
+      "referralCommission": 0,
+      "teamRewards": 25,
+      "promoRewards": 0
+    },
+    "usr_1790056282636_85gn": {
+      "userId": "usr_1790056282636_85gn",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056282736_35ed": {
+      "userId": "usr_1790056282736_35ed",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056282838_adbk": {
+      "userId": "usr_1790056282838_adbk",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056282938_5vbl": {
+      "userId": "usr_1790056282938_5vbl",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056283038_yi56": {
+      "userId": "usr_1790056283038_yi56",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056283152_k9u3": {
+      "userId": "usr_1790056283152_k9u3",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056283251_06fp": {
+      "userId": "usr_1790056283251_06fp",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056283353_3md6": {
+      "userId": "usr_1790056283353_3md6",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056283452_mpmo": {
+      "userId": "usr_1790056283452_mpmo",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    },
+    "usr_1790056283549_5q10": {
+      "userId": "usr_1790056283549_5q10",
+      "totalBalance": 0,
+      "totalDeposits": 0,
+      "totalWithdrawals": 0,
+      "todayEarnings": 0,
+      "totalEarnings": 0,
+      "availableWithdrawal": 0,
+      "referralCommission": 0,
+      "teamRewards": 0,
+      "promoRewards": 0
+    }
+  },
+  "plans": [
+    {
+      "id": "plan_starter_bronze",
+      "name": "Bronze Starter",
+      "badge": "Starter",
+      "price": 50,
+      "dailyRoiPercent": 3.5,
+      "dailyIncome": 1.75,
+      "validityDays": 40,
+      "totalReturnPercent": 140,
+      "minDeposit": 50,
+      "features": [
+        "Daily ROI: 3.50% ($1.75/day)",
+        "Duration: 40 Days",
+        "Total Return: 140% ($70.00)",
+        "Principal Included in Daily Returns",
+        "Instant Daily Earnings Claim",
+        "Standard 24/7 Support"
+      ],
+      "status": "active",
+      "order": 1,
+      "description": "Ideal starting tier for beginners wanting consistent daily automated returns."
+    },
+    {
+      "id": "plan_silver_growth",
+      "name": "Silver Growth",
+      "badge": "Popular",
+      "price": 150,
+      "dailyRoiPercent": 4,
+      "dailyIncome": 6,
+      "validityDays": 35,
+      "totalReturnPercent": 140,
+      "minDeposit": 150,
+      "features": [
+        "Daily ROI: 4.00% ($6.00/day)",
+        "Duration: 35 Days",
+        "Total Return: 140% ($210.00)",
+        "Instant Daily Claim",
+        "Priority Referral Bonus",
+        "Fast Track Withdrawal processing"
+      ],
+      "status": "active",
+      "order": 2,
+      "description": "Our most favored plan for steady capital compounding and boosted team rewards."
+    },
+    {
+      "id": "plan_gold_pro",
+      "name": "Gold Pro",
+      "badge": "High Yield",
+      "price": 500,
+      "dailyRoiPercent": 4.5,
+      "dailyIncome": 22.5,
+      "validityDays": 35,
+      "totalReturnPercent": 157.5,
+      "minDeposit": 500,
+      "features": [
+        "Daily ROI: 4.50% ($22.50/day)",
+        "Duration: 35 Days",
+        "Total Return: 157.5% ($787.50)",
+        "Exclusive VIP Ticket Support",
+        "Zero-fee Withdrawals",
+        "Higher Referral Tier Commission (8%)"
+      ],
+      "status": "active",
+      "order": 3,
+      "description": "Engineered for dedicated investors seeking superior yield and VIP treatment."
+    },
+    {
+      "id": "plan_diamond_elite",
+      "name": "Diamond Elite",
+      "badge": "Maximum Yield",
+      "price": 1200,
+      "dailyRoiPercent": 5.2,
+      "dailyIncome": 62.4,
+      "validityDays": 30,
+      "totalReturnPercent": 156,
+      "minDeposit": 1200,
+      "features": [
+        "Daily ROI: 5.20% ($62.40/day)",
+        "Duration: 30 Days",
+        "Total Return: 156% ($1,872.00)",
+        "Direct Account Manager",
+        "Same-day Expedited Withdrawals",
+        "Maximum Milestone multipliers"
+      ],
+      "status": "active",
+      "order": 4,
+      "description": "Institutional-grade investment tier offering prime algorithmic yield allocation."
+    }
+  ],
+  "userPlans": [],
+  "paymentMethods": [
+    {
+      "id": "pm_jazzcash",
+      "name": "JazzCash",
+      "type": "mobile_wallet",
+      "accountTitle": "AssetFlow Finance Ltd",
+      "accountNumber": "0300 9876543",
+      "networkOrBranch": "JazzCash Pakistan",
+      "instructions": "Send funds to JazzCash account 0300 9876543 (Title: AssetFlow Finance Ltd). After transfer, paste your 12-digit TID / Reference ID below.",
+      "minDeposit": 10,
+      "maxDeposit": 5000,
+      "feePercent": 0,
+      "status": "active",
+      "icon": "smartphone",
+      "order": 1
+    },
+    {
+      "id": "pm_easypaisa",
+      "name": "Easypaisa",
+      "type": "mobile_wallet",
+      "accountTitle": "AssetFlow Global Pay",
+      "accountNumber": "0345 1122334",
+      "networkOrBranch": "Telenor Easypaisa",
+      "instructions": "Transfer funds via Easypaisa App to 0345 1122334 (Title: AssetFlow Global Pay). Enter transaction ID (TRX ID) from your SMS or receipt.",
+      "minDeposit": 10,
+      "maxDeposit": 5000,
+      "feePercent": 0,
+      "status": "active",
+      "icon": "wallet",
+      "order": 2
+    },
+    {
+      "id": "pm_usdt_trc20",
+      "name": "USDT (TRC-20)",
+      "type": "crypto",
+      "accountTitle": "AssetFlow USDT Reserve Vault",
+      "accountNumber": "TYQ3N9Lq24RkH7KxB9u12wSmJ7xVzP987a",
+      "networkOrBranch": "TRON TRC-20 Network ONLY",
+      "instructions": "Send exact USDT via TRC-20 network to the address provided. Transactions on other chains (ERC-20/BEP-20) cannot be recovered. Enter the TXID hash.",
+      "minDeposit": 20,
+      "maxDeposit": 25000,
+      "feePercent": 1,
+      "status": "active",
+      "icon": "coins",
+      "order": 3
+    },
+    {
+      "id": "pm_bank_transfer",
+      "name": "Bank Transfer (Meezan / Alfalah)",
+      "type": "bank",
+      "accountTitle": "AssetFlow Financial Technologies SMC-Pvt Ltd",
+      "accountNumber": "0101 0102 9948 2201 (IBAN: PK36MEZN0001010102994822)",
+      "networkOrBranch": "Meezan Bank Ltd (Gulberg Branch, Lahore)",
+      "instructions": "Perform IBFT (Inter-Bank Funds Transfer) to Meezan Bank. Attach receipt image or provide the 10-16 character bank reference confirmation number.",
+      "minDeposit": 50,
+      "maxDeposit": 50000,
+      "feePercent": 0,
+      "status": "active",
+      "icon": "landmark",
+      "order": 4
+    }
+  ],
+  "deposits": [],
+  "withdrawals": [],
+  "transactions": [
+    {
+      "userId": "usr_1790056282534_r15i",
+      "userName": "Team Leader 2",
+      "type": "salary",
+      "amount": 25,
+      "isCredit": true,
+      "balanceAfter": 25,
+      "status": "completed",
+      "description": "Weekly Salary Payout: Tier 1 - Bronze Leader (10 Members) ($25.00)",
+      "referenceId": "sal_1790056283651_2lys",
+      "id": "tx_1790056283651_0w2ch",
+      "createdAt": "2026-09-22T05:51:23.651Z"
+    },
+    {
+      "userId": "usr_1790055798311_h3bv",
+      "userName": "Test User",
+      "type": "daily_earning",
+      "amount": 1.75,
+      "isCredit": true,
+      "balanceAfter": 51.75,
+      "status": "completed",
+      "description": "Claimed daily return: Bronze Starter (+$1.75)",
+      "referenceId": "up_1790055876918_dwzt",
+      "id": "tx_1790055921913_hm359",
+      "createdAt": "2026-09-22T05:45:21.913Z"
+    },
+    {
+      "userId": "usr_1790055798311_h3bv",
+      "userName": "Test User",
+      "type": "plan_activation",
+      "amount": 50,
+      "isCredit": false,
+      "balanceAfter": 50,
+      "status": "completed",
+      "description": "Activated Bronze Starter ($50)",
+      "referenceId": "up_1790055876918_dwzt",
+      "id": "tx_1790055876918_1ov49",
+      "createdAt": "2026-09-22T05:44:36.918Z"
+    },
+    {
+      "userId": "usr_1790055798311_h3bv",
+      "userName": "Test User",
+      "type": "deposit",
+      "amount": 100,
+      "isCredit": true,
+      "balanceAfter": 100,
+      "status": "completed",
+      "description": "Deposit via JazzCash (TID: TX_1790055876909)",
+      "referenceId": "dep_1790055876910_235x",
+      "id": "tx_1790055876910_rp5sk",
+      "createdAt": "2026-09-22T05:44:36.910Z"
+    },
+    {
+      "userId": "usr_1790055798311_h3bv",
+      "userName": "Test User",
+      "type": "deposit",
+      "amount": 100,
+      "isCredit": true,
+      "balanceAfter": 0,
+      "status": "pending",
+      "description": "Deposit via JazzCash (TID: TX1234567890)",
+      "referenceId": "dep_1790055832605_ib69",
+      "id": "tx_1790055832605_d93ig",
+      "createdAt": "2026-09-22T05:43:52.605Z"
+    },
+    {
+      "userId": "usr_admin_001",
+      "userName": "Master Admin",
+      "type": "promo_reward",
+      "amount": 10,
+      "isCredit": true,
+      "balanceAfter": 10,
+      "status": "completed",
+      "description": "Redeemed promo code: FDFD",
+      "referenceId": "FDFD",
+      "id": "tx_1789899513146_x0g12",
+      "createdAt": "2026-09-20T10:18:33.146Z"
+    }
+  ],
+  "promoCodes": [
+    {
+      "id": "promo_1789897410883_vy3v",
+      "code": "FDFD",
+      "rewardAmount": 10,
+      "maxUses": 100,
+      "usedCount": 1,
+      "startDate": "2026-09-20T09:43:30.883Z",
+      "expiryDate": "2026-10-20T09:43:33.048Z",
+      "status": "active",
+      "createdAt": "2026-09-20T09:43:30.883Z"
+    },
+    {
+      "id": "promo_1789896854337_yo52",
+      "code": "ASSEST",
+      "rewardAmount": 0.01,
+      "maxUses": 100,
+      "usedCount": 0,
+      "startDate": "2026-09-20T09:34:14.337Z",
+      "expiryDate": "2026-09-21T09:34:16.448Z",
+      "status": "active",
+      "createdAt": "2026-09-20T09:34:14.337Z"
+    }
+  ],
+  "promoRedemptions": [
+    {
+      "id": "pr_1789899513146_icg4",
+      "promoId": "promo_1789897410883_vy3v",
+      "promoCode": "FDFD",
+      "userId": "usr_admin_001",
+      "userName": "Master Admin",
+      "rewardAmount": 10,
+      "redeemedAt": "2026-09-20T10:18:33.146Z"
+    }
+  ],
+  "teamMilestones": [
+    {
+      "id": "ms_001",
+      "title": "Bronze Team Builder",
+      "requiredMembers": 5,
+      "rewardAmount": 25,
+      "condition": "registered",
+      "status": "active",
+      "order": 1
+    },
+    {
+      "id": "ms_002",
+      "title": "Silver Network Leader",
+      "requiredMembers": 10,
+      "rewardAmount": 60,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 2
+    },
+    {
+      "id": "ms_003",
+      "title": "Gold Executive Vanguard",
+      "requiredMembers": 20,
+      "rewardAmount": 150,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 3
+    },
+    {
+      "id": "ms_004",
+      "title": "Platinum Master Ambassador",
+      "requiredMembers": 35,
+      "rewardAmount": 300,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 4
+    },
+    {
+      "id": "ms_005",
+      "title": "Diamond Regional Director",
+      "requiredMembers": 50,
+      "rewardAmount": 600,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 5
+    }
+  ],
+  "teamMilestoneClaims": [],
+  "supportTickets": [],
+  "supportMessages": [],
+  "notifications": [
+    {
+      "id": "notif_1790056283651_04pa",
+      "userId": "admin",
+      "title": "Weekly Salary Claimed",
+      "message": "Team Leader 2 claimed $25.00 weekly salary under Tier 1 - Bronze Leader (10 Members).",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.651Z"
+    },
+    {
+      "id": "notif_1790056283651_r1k9",
+      "userId": "usr_1790056282534_r15i",
+      "title": "Weekly Salary Credited!",
+      "message": "Congratulations! Your weekly salary of $25.00 (Tier 1 - Bronze Leader (10 Members)) has been paid directly to your balance.",
+      "type": "earning",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.651Z"
+    },
+    {
+      "id": "notif_1790056283644_3mtr",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 10 (@m_10_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.644Z"
+    },
+    {
+      "id": "notif_1790056283644_3gh6",
+      "userId": "usr_1790056283549_5q10",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.644Z"
+    },
+    {
+      "id": "notif_1790056283546_719q",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 9 (@m_9_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.546Z"
+    },
+    {
+      "id": "notif_1790056283546_t4i0",
+      "userId": "usr_1790056283452_mpmo",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.546Z"
+    },
+    {
+      "id": "notif_1790056283448_ukoa",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 8 (@m_8_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.448Z"
+    },
+    {
+      "id": "notif_1790056283448_tce6",
+      "userId": "usr_1790056283353_3md6",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.448Z"
+    },
+    {
+      "id": "notif_1790056283348_09a5",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 7 (@m_7_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.348Z"
+    },
+    {
+      "id": "notif_1790056283348_iumd",
+      "userId": "usr_1790056283251_06fp",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.348Z"
+    },
+    {
+      "id": "notif_1790056283248_mxho",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 6 (@m_6_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.248Z"
+    },
+    {
+      "id": "notif_1790056283248_eaw3",
+      "userId": "usr_1790056283152_k9u3",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.248Z"
+    },
+    {
+      "id": "notif_1790056283148_8uyq",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 5 (@m_5_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.148Z"
+    },
+    {
+      "id": "notif_1790056283148_fjt2",
+      "userId": "usr_1790056283038_yi56",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.148Z"
+    },
+    {
+      "id": "notif_1790056283034_ghwv",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 4 (@m_4_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.034Z"
+    },
+    {
+      "id": "notif_1790056283034_yhz5",
+      "userId": "usr_1790056282938_5vbl",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:23.034Z"
+    },
+    {
+      "id": "notif_1790056282934_5f7k",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 3 (@m_3_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.934Z"
+    },
+    {
+      "id": "notif_1790056282933_3jkz",
+      "userId": "usr_1790056282838_adbk",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.934Z"
+    },
+    {
+      "id": "notif_1790056282834_wt9g",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 2 (@m_2_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.834Z"
+    },
+    {
+      "id": "notif_1790056282834_f2ui",
+      "userId": "usr_1790056282736_35ed",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.834Z"
+    },
+    {
+      "id": "notif_1790056282732_hnoq",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 1 (@m_1_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.732Z"
+    },
+    {
+      "id": "notif_1790056282732_x4k5",
+      "userId": "usr_1790056282636_85gn",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.732Z"
+    },
+    {
+      "id": "notif_1790056282629_wrul",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Team Leader 2 (@ldr_1790056282516) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.629Z"
+    },
+    {
+      "id": "notif_1790056282629_2l39",
+      "userId": "usr_1790056282534_r15i",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:22.629Z"
+    },
+    {
+      "id": "notif_1790056267126_j58a",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 10 (@mem_10_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:07.126Z"
+    },
+    {
+      "id": "notif_1790056267126_roi3",
+      "userId": "usr_1790056267029_0is8",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:07.126Z"
+    },
+    {
+      "id": "notif_1790056267027_9dcm",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 9 (@mem_9_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:07.027Z"
+    },
+    {
+      "id": "notif_1790056267027_jmc6",
+      "userId": "usr_1790056266931_ghol",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:07.027Z"
+    },
+    {
+      "id": "notif_1790056266928_g340",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 8 (@mem_8_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.928Z"
+    },
+    {
+      "id": "notif_1790056266928_80r5",
+      "userId": "usr_1790056266829_uet6",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.928Z"
+    },
+    {
+      "id": "notif_1790056266824_w3jw",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 7 (@mem_7_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.824Z"
+    },
+    {
+      "id": "notif_1790056266824_pgpd",
+      "userId": "usr_1790056266725_evdh",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.824Z"
+    },
+    {
+      "id": "notif_1790056266721_nd6e",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 6 (@mem_6_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.721Z"
+    },
+    {
+      "id": "notif_1790056266721_ji2a",
+      "userId": "usr_1790056266625_l4fh",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.721Z"
+    },
+    {
+      "id": "notif_1790056266621_63at",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 5 (@mem_5_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.621Z"
+    },
+    {
+      "id": "notif_1790056266621_yk32",
+      "userId": "usr_1790056266524_kdzf",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.621Z"
+    },
+    {
+      "id": "notif_1790056266521_zt45",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 4 (@mem_4_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.521Z"
+    },
+    {
+      "id": "notif_1790056266521_edt6",
+      "userId": "usr_1790056266426_k3pc",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.521Z"
+    },
+    {
+      "id": "notif_1790056266422_svo7",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 3 (@mem_3_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.422Z"
+    },
+    {
+      "id": "notif_1790056266422_63u6",
+      "userId": "usr_1790056266324_16bh",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.422Z"
+    },
+    {
+      "id": "notif_1790056266321_glzd",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 2 (@mem_2_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.321Z"
+    },
+    {
+      "id": "notif_1790056266321_bd0a",
+      "userId": "usr_1790056266226_op7a",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.321Z"
+    },
+    {
+      "id": "notif_1790056266222_ng5n",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Member 1 (@mem_1_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.222Z"
+    },
+    {
+      "id": "notif_1790056266222_xa1p",
+      "userId": "usr_1790056266125_6h4m",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.222Z"
+    },
+    {
+      "id": "notif_1790056266112_ylie",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Team Leader (@leader_1790056265984) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.112Z"
+    },
+    {
+      "id": "notif_1790056266112_e199",
+      "userId": "usr_1790056266004_xrpr",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:51:06.112Z"
+    },
+    {
+      "id": "notif_1790055921913_rx99",
+      "userId": "usr_1790055798311_h3bv",
+      "title": "Daily ROI Claimed",
+      "message": "+$1.75 credited to your available balance for Bronze Starter. Next claim in 24 hours.",
+      "type": "earning",
+      "read": false,
+      "createdAt": "2026-09-22T05:45:21.913Z"
+    },
+    {
+      "id": "notif_1790055876919_3qy1",
+      "userId": "usr_1790055798311_h3bv",
+      "title": "Plan Activated Successfully",
+      "message": "Your Bronze Starter has been activated. You will receive $1.75 daily return.",
+      "type": "plan",
+      "read": false,
+      "createdAt": "2026-09-22T05:44:36.919Z"
+    },
+    {
+      "id": "notif_1790055876916_rndi",
+      "userId": "usr_1790055798311_h3bv",
+      "title": "Deposit Approved!",
+      "message": "Your deposit of $100.00 via JazzCash has been approved and credited.",
+      "type": "deposit",
+      "read": false,
+      "createdAt": "2026-09-22T05:44:36.916Z"
+    },
+    {
+      "id": "notif_1790055876910_eigc",
+      "userId": "admin",
+      "title": "Pending Deposit Submitted",
+      "message": "Test User submitted a $100.00 deposit via JazzCash.",
+      "type": "deposit",
+      "read": false,
+      "createdAt": "2026-09-22T05:44:36.910Z"
+    },
+    {
+      "id": "notif_1790055876910_9t28",
+      "userId": "usr_1790055798311_h3bv",
+      "title": "Deposit Request Submitted",
+      "message": "Your deposit of $100.00 via JazzCash has been submitted for admin verification.",
+      "type": "deposit",
+      "read": false,
+      "createdAt": "2026-09-22T05:44:36.910Z"
+    },
+    {
+      "id": "notif_1790055832605_7scr",
+      "userId": "admin",
+      "title": "Pending Deposit Submitted",
+      "message": "Test User submitted a $100.00 deposit via JazzCash.",
+      "type": "deposit",
+      "read": false,
+      "createdAt": "2026-09-22T05:43:52.605Z"
+    },
+    {
+      "id": "notif_1790055832605_wifn",
+      "userId": "usr_1790055798311_h3bv",
+      "title": "Deposit Request Submitted",
+      "message": "Your deposit of $100.00 via JazzCash has been submitted for admin verification.",
+      "type": "deposit",
+      "read": false,
+      "createdAt": "2026-09-22T05:43:52.605Z"
+    },
+    {
+      "id": "notif_1790055798419_l0nq",
+      "userId": "admin",
+      "title": "New User Registered",
+      "message": "Test User (@testuser99) just created an account.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:43:18.419Z"
+    },
+    {
+      "id": "notif_1790055798419_09d2",
+      "userId": "usr_1790055798311_h3bv",
+      "title": "Welcome to AssetFlow!",
+      "message": "Your account is successfully registered. Explore investment plans or fund your wallet to begin earning daily ROI.",
+      "type": "system",
+      "read": false,
+      "createdAt": "2026-09-22T05:43:18.419Z"
+    },
+    {
+      "id": "notif_1789899513146_esmd",
+      "userId": "usr_admin_001",
+      "title": "Promo Code Applied!",
+      "message": "+$10.00 bonus added to your balance for applying FDFD.",
+      "type": "promo",
+      "read": false,
+      "createdAt": "2026-09-20T10:18:33.146Z"
+    }
+  ],
+  "settings": {
+    "siteName": "AssetFlow",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "referralCommissionPercent": 6,
+    "minWithdrawal": 2,
+    "maxWithdrawal": 10000,
+    "withdrawalFeePercent": 0,
+    "dailyEarningCycleHours": 24,
+    "supportEmail": "support@assetflow.com",
+    "maintenanceMode": false,
+    "announcementText": "Special Weekend Earning Multiplier is active for all Gold and Diamond plans!",
+    "usdToPkrRate": 280,
+    "withdrawalBoxes": [
+      2,
+      4,
+      8,
+      10,
+      20,
+      30,
+      40,
+      50,
+      70,
+      100
+    ]
+  },
+  "auditLogs": [
+    {
+      "id": "log_1790055876916_xp4x",
+      "adminId": "usr_admin_001",
+      "adminName": "Master Admin",
+      "action": "APPROVE_DEPOSIT",
+      "targetType": "deposit",
+      "targetId": "dep_1790055876910_235x",
+      "details": "Approved $100 (JazzCash) for Test User",
+      "timestamp": "2026-09-22T05:44:36.916Z"
+    }
+  ],
+  "salaryTiers": [
+    {
+      "id": "st_001",
+      "title": "Tier 1 - Bronze Leader (10 Members)",
+      "requiredMembers": 10,
+      "weeklySalary": 25,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 1,
+      "description": "Build 10 active investor referrals to receive guaranteed $25.00 every single week."
+    },
+    {
+      "id": "st_002",
+      "title": "Tier 2 - Silver Executive (20 Members)",
+      "requiredMembers": 20,
+      "weeklySalary": 60,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 2,
+      "description": "Maintain 20 active investor referrals to claim $60.00 weekly recurring payroll."
+    },
+    {
+      "id": "st_003",
+      "title": "Tier 3 - Gold Ambassador (30 Members)",
+      "requiredMembers": 30,
+      "weeklySalary": 100,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 3,
+      "description": "Command a network of 30 active team members and receive $100.00 weekly salary."
+    },
+    {
+      "id": "st_004",
+      "title": "Tier 4 - Platinum Director (50 Members)",
+      "requiredMembers": 50,
+      "weeklySalary": 200,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 4,
+      "description": "Command 50 active team members to receive $200.00 weekly salary directly into your balance."
+    },
+    {
+      "id": "st_005",
+      "title": "Tier 5 - Diamond Sovereign (100 Members)",
+      "requiredMembers": 100,
+      "weeklySalary": 500,
+      "condition": "active_plan",
+      "status": "active",
+      "order": 5,
+      "description": "Top-tier executive level: 100 active investors provides $500.00 recurring weekly payroll."
+    }
+  ],
+  "salaryPayouts": []
+}
